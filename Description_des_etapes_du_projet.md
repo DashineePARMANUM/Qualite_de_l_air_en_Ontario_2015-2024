@@ -1,6 +1,6 @@
 # Description des etapes du projet
 
-Ce projet a été réalisé dans le cadre du cours SED1516 – Analyse et visualisation des données. Il s’agit d’un projet progressif structuré en quatre livrables, couvrant l’ensemble du pipeline d’analyse de données, de la sélection du jeu de données jusqu’à la visualisation et l’interprétation finale.
+Ce projet a été réalisé dans le cadre du cours SED1516 – Analyse et visualisation des données [uOttawa]. Il s’agit d’un projet progressif structuré en quatre livrables, couvrant l’ensemble du pipeline d’analyse de données, de la sélection du jeu de données jusqu’à la visualisation et l’interprétation finale.
 
 ## Livrable 1 – ENSEMBLE DE DONNÉES
 Ce premier livrable consiste à choisir un ensemble de données ouvert et à en présenter les caractéristiques principales.  
@@ -54,7 +54,7 @@ Ce livrable met l’accent sur la narration des données et la compréhension gl
 ---
 # Description of Project Stages
 
-This project was completed as part of SED1516 – Data Analysis and Visualization. It is a progressive project structured into four deliverables, covering the full data analysis pipeline from dataset selection to final visualization and interpretation.
+This project was completed as part of SED1516 – Data Analysis and Visualization [uOttawa]. It is a progressive project structured into four deliverables, covering the full data analysis pipeline from dataset selection to final visualization and interpretation.
 
 ## Deliverable 1 – DATASET SELECTION
 
