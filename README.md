@@ -20,9 +20,6 @@ Projet en binôme pour SED 1516 - Visualisation et analytique des données
   - `SED1516_Groupe5_Tableau_de_bord-L4.pbix` = Power BI file with added drillrhoguh to page 2 of the dashboard
   - `SED1516_Groupe5_Livrable4.pdf` = pdf reprot sumitied
   
-## Contributions
-- expliquer dans chauqe rapport PDF
-  
 ## Utilisation
 download Excel files from `data_raw` in `livrable 1` for all raw data
 download Excel files from `data_ongoing` in `livrable 2` for all data manipuation and some simple visualisation
