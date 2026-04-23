@@ -49,3 +49,69 @@ Il inclut :
 - des recommandations basées sur les résultats  
 
 Ce livrable met l’accent sur la narration des données et la compréhension globale du phénomène étudié.
+
+--
+--
+# Description of Project Stages
+
+This project was completed as part of SED1516 – Data Analysis and Visualization. It is a progressive project structured into four deliverables, covering the full data analysis pipeline from dataset selection to final visualization and interpretation.
+
+## Deliverable 1 – DATASET SELECTION
+
+This first deliverable consists of selecting an open dataset and presenting its main characteristics.
+
+The objectives were to:
+- describe the study domain and its importance
+- present the source and structure of the dataset
+- analyze available variables and dataset size
+- assess data reliability and integrity (potential bias, data collection method)
+- formulate initial hypotheses and analysis directions
+- propose ideas for future visualizations
+
+## Deliverable 2 – EXPLORATION AND ANALYSIS
+
+This deliverable focuses on data cleaning and exploration in order to test initial hypotheses.
+
+Main steps include:
+- data cleaning (missing values, duplicates, structural errors, outliers)
+- data transformation and structuring
+- descriptive analysis (means, aggregations, distributions)
+- correlation and comparison analysis
+- exploratory regression analysis
+- initial visualizations to identify trends  
+
+This stage helps generate initial insights and guide further analysis.
+
+## Deliverable 3 – POWER BI DASHBOARD
+
+This deliverable consists of transforming the analyzed data into an interactive dashboard using Power BI.
+
+Main steps include:
+- importing and connecting data in Power BI
+- structuring the dataset for visualization
+- creating relationships between data (basic modeling)
+- designing interactive visualizations (charts, tables, indicators)
+- formatting and improving visual clarity
+- identifying tool limitations and possible improvements
+
+## Deliverable 4 – STORYTELLING AND FINAL ANALYSIS
+
+This final deliverable represents the synthesis of the project.
+
+It includes:
+- consolidation of previous analyses
+- refinement and improvement of visualizations
+- global interpretation of results
+- evaluation of whether initial objectives were achieved
+- identification of trends and unexpected findings
+- reflection on project limitations and challenges
+- recommendations based on the results  
+
+This deliverable emphasizes data storytelling and a global understanding of the studied phenomenon.
+
+---
+---
+*Honours Bachelor of Science in Statistics / Baccalauréat spécialisé en sciences (statistique)*  
+*University of Ottawa / Université d’Ottawa*  
+*Contact / Coordonnées : dashinee.parmanum@gmail.com*  
+*LinkedIn : [Dashinee Parmanum](https://www.linkedin.com/in/dashinee-parmanum/)*
