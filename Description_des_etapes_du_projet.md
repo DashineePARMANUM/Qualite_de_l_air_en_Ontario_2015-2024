@@ -1,4 +1,4 @@
-# Description_des_etapes_du_projet
+## Description des etapes du projet
 
 Ce projet a été réalisé dans le cadre du cours SED1516 – Analyse et visualisation des données. Il s’agit d’un projet progressif structuré en quatre livrables, couvrant l’ensemble du pipeline d’analyse de données, de la sélection du jeu de données jusqu’à la visualisation et l’interprétation finale.
 
