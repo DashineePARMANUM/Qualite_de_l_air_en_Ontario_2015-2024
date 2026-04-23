@@ -49,4 +49,4 @@ Pair project for SED 1516 - Data visualization and analytics (French section of 
 *Honours Bachelor of Science in Statistics / Baccalauréat spécialisé en sciences (statistique)*  
 *University of Ottawa / Université d’Ottawa*  
 *Contact / Coordonnée : dashinee.parmanum@gmail.com*  
-*LinkedIn: https: //www.linkedin.com/in/dashinee-parmanum/*
+*LinkedIn: https : //www.linkedin.com/in/dashinee-parmanum/*
