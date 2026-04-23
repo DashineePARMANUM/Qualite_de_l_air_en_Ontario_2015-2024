@@ -1,5 +1,5 @@
 # Variations des concentrations de polluants atmosphériques dans des villes urbaines et rurales de l’Ontario (2015-2024)
-Projet en binôme pour SED 1516 - Visualisation et analytique des données  
+Projet en binôme pour SED 1516 - Visualisation et analytique des données [uOttawa]
   
 **Note :** Ce dépôt a été créé et maintenu par moi après la fin du projet du cours. Il s’agit d’une organisation personnelle et indépendante du travail, à des fins de partage et de portfolio.
 
@@ -40,7 +40,7 @@ Les données ont été téléchargées sous forme de fichiers CSV pour chaque po
 ---
 ---
 # Variations in air pollutant concentrations in urban and rural cities of Ontario (2015-2024)
-Pair project for SED 1516 - Data visualization and analytics (French section of SED 1116)  
+Pair project for SED 1516 - Data visualization and analytics (French section of SED 1116) [uOttawa]
   
 **Note :** This repository was created and maintained by me after the completion of the course project. It serves as a personal, independent organization of the work for sharing and portfolio purposes. 
 
