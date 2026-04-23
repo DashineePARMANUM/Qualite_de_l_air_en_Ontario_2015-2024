@@ -10,6 +10,7 @@ Projet en binôme pour SED 1516 - Visualisation et analytique des données [uOtt
 - **Visualisation de données :** communication des tendances et des résultats
 
 ## Fichiers et dossiers
+- `Description_des_etapes_du_projet.md` = étapes/instructions du projet
 - **`livrable 1` :**
   - **`data_raw` :** 6 fichiers Excel, un par ville, couvrant 10 ans de données. Chaque fichier contient 7 feuilles correspondant à une sélection initiale de polluants.
   - `SED1516_Groupe5_Livrable1.pdf` : rapport soumis
@@ -51,6 +52,7 @@ Pair project for SED 1516 - Data visualization and analytics (French section of 
 - **Data visualization:** communicating trends and results
 
 ## Files and Folders
+- `Description_des_etapes_du_projet.md` = projet steps/instructions 
 - **`livrable 1`:**
   - **`data_raw`:** 6 Excel files, one per city, covering 10 years of data. Each file contains 7 sheets corresponding to an initial selection of pollutants.
   - `SED1516_Groupe5_Livrable1.pdf`: submitted report
