@@ -3,6 +3,12 @@ Projet en binôme pour SED 1516 - Visualisation et analytique des données
   
 **Note :** Ce dépôt a été créé et maintenu par moi après la fin du projet du cours. Il s’agit d’une organisation personnelle et indépendante du travail, à des fins de partage et de portfolio.
 
+## Compétences
+- **Excel :** nettoyage et transformation de données, tableaux croisés dynamiques, structuration pour l’analyse  
+- **Power BI :** création de tableaux de bord interactifs et fonctionnalités de drill-through (notions de modélisation de données vues en cours; application limitée dans ce projet en raison de l’utilisation d’une seule source de données)
+- **Analyse de données :** statistiques descriptives, agrégation et préparation de jeux de données  
+- **Visualisation de données :** communication des tendances et des résultats
+
 ## Fichiers et dossiers
 - **`livrable 1` :**
   - **`data_raw` :** 6 fichiers Excel, un par ville, couvrant 10 ans de données. Chaque fichier contient 7 feuilles correspondant à une sélection initiale de polluants.
@@ -37,6 +43,12 @@ Les données ont été téléchargées sous forme de fichiers CSV pour chaque po
 Pair project for SED 1516 - Data visualization and analytics (French section of SED 1116)  
   
 **Note :** This repository was created and maintained by me after the completion of the course project. It serves as a personal, independent organization of the work for sharing and portfolio purposes. 
+
+## Skills
+- **Excel:** data cleaning and transformation, pivot tables, data structuring for analysis  
+- **Power BI:** creation of interactive dashboards and drill-through functionality (basic data modeling concepts introduced in class; limited modeling applied in this project due to use of a single data source)  
+- **Data analysis:** descriptive statistics, aggregation, and dataset preparation  
+- **Data visualization:** communicating trends and results
 
 ## Files and Folders
 - **`livrable 1`:**
