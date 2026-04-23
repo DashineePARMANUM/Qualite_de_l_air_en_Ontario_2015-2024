@@ -7,7 +7,11 @@ Projet en binôme pour SED 1516 - Visualisation et analytique des données
 
 ## Fichiers et dossiers
 - **`livrable 1`:**
+  - **`data_raw`:** 6 Excel files one for each city over 10 years each file with 7 sheet for the inital slection of polluants
+  - `SED1516_Groupe5_Livrable1.pdf` = pdf report submitted
 - **`livrable 2`:**
+  - **`data_ongoign`:** 7 Excel files - one for each city that we sued gfor data clenaing then 1 called `combined_cities.xlsx` where maniupultaiotn were made
+  - `SED1516_Groupe5_Livrable2.pdf` = pdf report submitted
 - **`livrable 3`:**
 - **`livrable 4`:**
   
