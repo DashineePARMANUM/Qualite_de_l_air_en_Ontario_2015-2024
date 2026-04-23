@@ -14,6 +14,7 @@ Les objectifs étaient de :
 
 ## Livrable 2 – EXPLORATION ET ANALYSE
 Ce livrable porte sur le nettoyage et l’exploration des données afin de tester les hypothèses initiales.  
+
 Les étapes principales incluent :
 - nettoyage des données (valeurs manquantes, doublons, erreurs structurelles, valeurs aberrantes)
 - transformation et structuration des données
@@ -21,10 +22,12 @@ Les étapes principales incluent :
 - analyses de corrélation et de comparaison
 - analyses de régression exploratoires
 - premières visualisations pour identifier les tendances  
+
 Cette étape permet de dégager des premières conclusions et d’orienter l’analyse future.
 
 ## Livrable 3 –  TABLEAU DE BORD VIA POWER BI
 Ce livrable consiste à transformer les données analysées en un tableau de bord interactif à l’aide de Power BI.  
+
 Les principales étapes sont :
 - importation et connexion des données dans Power BI
 - structuration du jeu de données pour la visualisation
@@ -35,6 +38,7 @@ Les principales étapes sont :
 
 ## Livrable 4 – L'HISTOIRE 
 Ce dernier livrable constitue la synthèse du projet.  
+
 Il inclut :
 - la consolidation des analyses précédentes
 - l’amélioration et l’ajustement des visualisations
@@ -43,4 +47,5 @@ Il inclut :
 - l’identification de tendances et d’observations inattendues
 - la réflexion sur les limites du projet et les difficultés rencontrées
 - des recommandations basées sur les résultats  
+
 Ce livrable met l’accent sur la narration des données et la compréhension globale du phénomène étudié.
