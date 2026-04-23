@@ -50,8 +50,8 @@ Il inclut :
 
 Ce livrable met l’accent sur la narration des données et la compréhension globale du phénomène étudié.
 
---
---
+---
+---
 # Description of Project Stages
 
 This project was completed as part of SED1516 – Data Analysis and Visualization. It is a progressive project structured into four deliverables, covering the full data analysis pipeline from dataset selection to final visualization and interpretation.
