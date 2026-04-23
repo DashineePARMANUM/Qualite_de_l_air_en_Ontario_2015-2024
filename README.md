@@ -15,8 +15,10 @@ Projet en binôme pour SED 1516 - Visualisation et analytique des données
 - expliquer dans chauqe rapport PDF
   
 ## Utilisation
-Pour ce projet
-dans excel = manipulationd e sdonnee + some visualisation + 
+download Excel files from `data_raw` in `livrable 1` for all raw data
+download Excel files from `data_ongoing` in `livrable 2` for all data manipuation and some simple visualisation
+download Power BI files from `livrable 3` for moreindepth visualisation
+dowload any PDF report  tfor explantion etc..
   
 ## Source de données
 totue les donne viene du site web = [Qualité de l'air Ontario](https://www.qualitedelairontario.com/)
