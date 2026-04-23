@@ -6,28 +6,32 @@ Projet en binôme pour SED 1516 - Visualisation et analytique des données
 **Note :** Ce dépôt a été créé et maintenu par moi après la fin du projet du cours. Il s’agit d’une organisation personnelle et indépendante du travail, à des fins de partage et de portfolio.
 
 ## Fichiers et dossiers
-- **`livrable 1`:**
-  - **`data_raw`:** 6 Excel files one for each city over 10 years each file with 7 sheet for the inital slection of polluants
-  - `SED1516_Groupe5_Livrable1.pdf` = pdf report submitted
-- **`livrable 2`:**
-  - **`data_ongoign`:** 7 Excel files - one for each city that we sued gfor data clenaing then 1 called `combined_cities.xlsx` where maniupultaiotn were made
-  - `SED1516_Groupe5_Livrable2.pdf` = pdf report submitted
-- **`livrable 3`:**
-  - `data_livrable3.xlsx` = data file used to iulaood into Power BI - cleaned from `combiend_cities.xlsx` main sheet ro only have mean, mma,min and be verital instead of horizatal for ease of use in Power BI
-  - `SED1516_Groupe5_Tableau_de_bord.pbix` = Power BI dashboard file
-  - `SED1516_Groupe5_Livrable3.pdf` = pdf report submitted
-- **`livrable 4`:**
-  - `SED1516_Groupe5_Tableau_de_bord-L4.pbix` = Power BI file with added drillrhoguh to page 2 of the dashboard
-  - `SED1516_Groupe5_Livrable4.pdf` = pdf reprot sumitied
+- **`livrable 1` :**
+  - **`data_raw` :** 6 fichiers Excel, un par ville, couvrant 10 ans de données. Chaque fichier contient 7 feuilles correspondant à une sélection initiale de polluants.
+  - `SED1516_Groupe5_Livrable1.pdf` : rapport soumis
+- **`livrable 2` :**
+  - **`data_ongoing` :** 7 fichiers Excel (un par ville) utilisés pour le nettoyage initial des données ainsi que `combined_cities.xlsx` (fichier regroupant les données nettoyées de chaque ville - contient également plusieurs feuilles dédiées à la manipulation et à l’analyse des données - ex. : régressions, tableaux croisés dynamiques, premières visualisations)  
+  - `SED1516_Groupe5_Livrable2.pdf` : rapport soumis
+- **`livrable 3` :**
+  - `data_livrable3.xlsx` : fichier de données préparé pour l’importation dans Power BI (données nettoyées et restructurées à partir de `combined_cities.xlsx`, avec moyenne, minimum et maximum en format vertical)
+  - `SED1516_Groupe5_Tableau_de_bord.pbix` : fichier Power BI - tableau de bord
+  - `SED1516_Groupe5_Livrable3.pdf` : rapport soumis
+- **`livrable 4` :**
+  - `SED1516_Groupe5_Tableau_de_bord-L4.pbix` : fichier Power BI avec ajout de fonctionnalités (drill-through)
+  - `SED1516_Groupe5_Livrable4.pdf` : rapport soumis
+ 
+## Contribution
+Les contributions individuelles sont détaillées dans chaque rapport PDF associé aux livrables.
   
 ## Utilisation
-download Excel files from `data_raw` in `livrable 1` for all raw data
-download Excel files from `data_ongoing` in `livrable 2` for all data manipuation and some simple visualisation
-download Power BI files from `livrable 3` for moreindepth visualisation
-dowload any PDF report  tfor explantion etc..
+- Télécharger les fichiers Excel du dossier `data_raw` (`livrable 1`) pour accéder aux données brutes  
+- Télécharger les fichiers du dossier `data_ongoing` (`livrable 2`) pour consulter le nettoyage et la manipulation des données  
+- Télécharger les fichiers Power BI (`livrable 3` et `livrable 4`) pour explorer les visualisations interactives  
+- Consulter les rapports PDF pour les explications détaillées et les résultats  
   
 ## Source de données
-totue les donne viene du site web = [Qualité de l'air Ontario](https://www.qualitedelairontario.com/)  where we wear bale to download a csv file for each popultuant byu city for the whole 10 eyar(2014-2015)
+Toutes les données proviennent du site : [Qualité de l'air Ontario](https://www.qualitedelairontario.com/).
+Les données ont été téléchargées sous forme de fichiers CSV pour chaque polluant et chaque ville, couvrant une période de 10 ans (2015-2024).
 
 ---
 ---
