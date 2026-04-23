@@ -42,17 +42,31 @@ Pair project for SED 1516 - Data visualization and analytics (French section of 
 
 ## Files and Folders
 - **`livrable 1`:**
+  - **`data_raw`:** 6 Excel files, one per city, covering 10 years of data. Each file contains 7 sheets corresponding to an initial selection of pollutants.
+  - `SED1516_Groupe5_Livrable1.pdf`: submitted report
 - **`livrable 2`:**
+  - **`data_ongoing`:** 7 Excel files (one per city) used for initial data cleaning, along with `combined_cities.xlsx` (a file that consolidates the cleaned data from each city - includes multiple sheets dedicated to data manipulation and analysis - e.g., regressions, pivot tables, and initial visualizations)  
+  - `SED1516_Groupe5_Livrable2.pdf`: submitted report
 - **`livrable 3`:**
+  - `data_livrable3.xlsx`: dataset prepared for import into Power BI (cleaned and restructured from `combined_cities.xlsx`, with mean, minimum, and maximum values organized in a vertical format)
+  - `SED1516_Groupe5_Tableau_de_bord.pbix`: Power BI file - dashboard 
+  - `SED1516_Groupe5_Livrable3.pdf`: submitted report
 - **`livrable 4`:**
+  - `SED1516_Groupe5_Tableau_de_bord-L4.pbix`: Power BI file with additional features (drill-through functionality)
+  - `SED1516_Groupe5_Livrable4.pdf`: submitted report
 
-## Contributions
-- 
+## Contribution
+Individual contributions are detailed in each PDF report associated with the deliverables.
 
-## Usage 
+## Usage
+- Download Excel files from the `data_raw` folder (`livrable 1`) to access raw data  
+- Download files from the `data_ongoing` folder (`livrable 2`) to review data cleaning and manipulation steps  
+- Download Power BI files (`livrable 3` and `livrable 4`) to explore interactive visualizations  
+- Refer to the PDF reports for detailed explanations and results  
 
-## Data Sources
-[Air Quality Ontario](https://www.airqualityontario.com/)
+## Data Source
+All data comes from the [Air Quality Ontario](https://www.airqualityontario.com/) website.  
+Data was downloaded as CSV files for each pollutant and city, covering a 10-year period (2015–2024).
 
 ---
 ---
