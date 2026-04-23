@@ -30,7 +30,7 @@ download Power BI files from `livrable 3` for moreindepth visualisation
 dowload any PDF report  tfor explantion etc..
   
 ## Source de données
-totue les donne viene du site web = [Qualité de l'air Ontario](https://www.qualitedelairontario.com/)
+totue les donne viene du site web = [Qualité de l'air Ontario](https://www.qualitedelairontario.com/)  where we wear bale to download a csv file for each popultuant byu city for the whole 10 eyar(2014-2015)
 
 ---
 ---
