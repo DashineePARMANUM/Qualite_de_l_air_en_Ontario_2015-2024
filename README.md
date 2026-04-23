@@ -1,5 +1,3 @@
-## IN THE WORKS
-
 # Variations des concentrations de polluants atmosphériques dans des villes urbaines et rurales de l’Ontario (2015-2024)
 Projet en binôme pour SED 1516 - Visualisation et analytique des données  
   
