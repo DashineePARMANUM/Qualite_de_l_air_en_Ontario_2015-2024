@@ -1,8 +1,8 @@
-## Description des etapes du projet
+# Description des etapes du projet
 
 Ce projet a été réalisé dans le cadre du cours SED1516 – Analyse et visualisation des données. Il s’agit d’un projet progressif structuré en quatre livrables, couvrant l’ensemble du pipeline d’analyse de données, de la sélection du jeu de données jusqu’à la visualisation et l’interprétation finale.
 
-# Livrable 1 – ENSEMBLE DE DONNÉES
+## Livrable 1 – ENSEMBLE DE DONNÉES
 Ce premier livrable consiste à choisir un ensemble de données ouvert et à en présenter les caractéristiques principales.  
 Les objectifs étaient de :
 - décrire le domaine d’étude et son importance
@@ -12,7 +12,7 @@ Les objectifs étaient de :
 - formuler des hypothèses initiales et des pistes d’analyse
 - proposer des idées de visualisations futures
 
-# Livrable 2 – EXPLORATION ET ANALYSE
+## Livrable 2 – EXPLORATION ET ANALYSE
 Ce livrable porte sur le nettoyage et l’exploration des données afin de tester les hypothèses initiales.  
 Les étapes principales incluent :
 - nettoyage des données (valeurs manquantes, doublons, erreurs structurelles, valeurs aberrantes)
@@ -23,7 +23,7 @@ Les étapes principales incluent :
 - premières visualisations pour identifier les tendances  
 Cette étape permet de dégager des premières conclusions et d’orienter l’analyse future.
 
-# Livrable 3 –  TABLEAU DE BORD VIA POWER BI
+## Livrable 3 –  TABLEAU DE BORD VIA POWER BI
 Ce livrable consiste à transformer les données analysées en un tableau de bord interactif à l’aide de Power BI.  
 Les principales étapes sont :
 - importation et connexion des données dans Power BI
@@ -33,7 +33,7 @@ Les principales étapes sont :
 - mise en forme et amélioration de la lisibilité des visuels
 - identification des limites de l’outil et pistes d’amélioration
 
-# Livrable 4 – L'HISTOIRE 
+## Livrable 4 – L'HISTOIRE 
 Ce dernier livrable constitue la synthèse du projet.  
 Il inclut :
 - la consolidation des analyses précédentes
