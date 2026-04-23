@@ -13,6 +13,9 @@ Projet en binôme pour SED 1516 - Visualisation et analytique des données
   - **`data_ongoign`:** 7 Excel files - one for each city that we sued gfor data clenaing then 1 called `combined_cities.xlsx` where maniupultaiotn were made
   - `SED1516_Groupe5_Livrable2.pdf` = pdf report submitted
 - **`livrable 3`:**
+  - `data_livrable3.xlsx` = data file used to iulaood into Power BI - cleaned from `combiend_cities.xlsx` main sheet ro only have mean, mma,min and be verital instead of horizatal for ease of use in Power BI
+  - `SED1516_Groupe5_Tableau_de_bord.pbix` = Power BI dashboard file
+  - `SED1516_Groupe5_Livrable3.pdf` = pdf report submitted
 - **`livrable 4`:**
   
 ## Contributions
