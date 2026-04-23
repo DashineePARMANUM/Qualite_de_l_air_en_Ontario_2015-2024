@@ -30,7 +30,7 @@ Les contributions individuelles sont détaillées dans chaque rapport PDF associ
 - Consulter les rapports PDF pour les explications détaillées et les résultats  
   
 ## Source de données
-Toutes les données proviennent du site : [Qualité de l'air Ontario](https://www.qualitedelairontario.com/).
+Toutes les données proviennent du site [Qualité de l'air Ontario](https://www.qualitedelairontario.com/).
 Les données ont été téléchargées sous forme de fichiers CSV pour chaque polluant et chaque ville, couvrant une période de 10 ans (2015-2024).
 
 ---
