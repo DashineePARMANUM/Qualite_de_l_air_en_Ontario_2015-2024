@@ -4,6 +4,7 @@ Ce projet a été réalisé dans le cadre du cours SED1516 – Analyse et visual
 
 ## Livrable 1 – ENSEMBLE DE DONNÉES
 Ce premier livrable consiste à choisir un ensemble de données ouvert et à en présenter les caractéristiques principales.  
+
 Les objectifs étaient de :
 - décrire le domaine d’étude et son importance
 - présenter la source et la structure du jeu de données
