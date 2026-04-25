@@ -47,8 +47,6 @@ Il inclut :
 - la réflexion sur les limites du projet et les difficultés rencontrées
 - des recommandations basées sur les résultats  
 
-Ce livrable met l’accent sur la narration des données et la compréhension globale du phénomène étudié.
-
 ---
 ---
 # Description of Project Stages
@@ -79,8 +77,6 @@ Main steps include:
 - exploratory regression analysis
 - initial visualizations to identify trends  
 
-This stage helps generate initial insights and guide further analysis.
-
 ## Deliverable 3 – POWER BI DASHBOARD
 
 This deliverable consists of transforming the analyzed data into an interactive dashboard using Power BI.
@@ -105,8 +101,6 @@ It includes:
 - identification of trends and unexpected findings
 - reflection on project limitations and challenges
 - recommendations based on the results  
-
-This deliverable emphasizes data storytelling and a global understanding of the studied phenomenon.
 
 ---
 ---
