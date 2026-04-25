@@ -24,8 +24,6 @@ Les étapes principales incluent :
 - analyses de régression exploratoires
 - premières visualisations pour identifier les tendances  
 
-Cette étape permet de dégager des premières conclusions et d’orienter l’analyse future.
-
 ## Livrable 3 –  TABLEAU DE BORD VIA POWER BI
 Ce livrable consiste à transformer les données analysées en un tableau de bord interactif à l’aide de Power BI.  
 
